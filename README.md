@@ -58,7 +58,7 @@ User bill Tracking application build with spring boot, maven, REST APIs and depl
 
 ![alt text](./templates/lambda.png)
 
- ### Packer
+### Packer
 * Implemented CI to build out an AMI and share it between organization on AWS
 * Created provisioners and bootstrapped the EC2 instance with required tools like Tomcat, JAVA, Python
 
