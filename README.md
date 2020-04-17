@@ -14,7 +14,7 @@ User bill Tracking application build with spring boot, maven, REST APIs and depl
 
 ### Architecture Diagram
  
-![alt text](./templates/aws_full.png)
+![alt text](./templates/AWS_Architecture.png)
 
 ### Tools and Technologies
 
@@ -56,7 +56,7 @@ User bill Tracking application build with spring boot, maven, REST APIs and depl
 * The lambda function checks for the entry of the email in DynamoDB if it has no entry then it inserts a record with a TTL of 60 minutes and sends the notification to the user with SES
 * DynamoDB stores TTL data from the user to ensure request served only once per hour
 
-![alt text](./templates/lambda.png)
+![alt text](./templates/Lambda.png)
 
 ### Packer
 * Implemented CI to build out an AMI and share it between organization on AWS
