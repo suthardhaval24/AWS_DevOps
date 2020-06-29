@@ -65,6 +65,9 @@ User bill Tracking application build with spring boot, maven, REST APIs and depl
 ### Refer this Repositories for more details:
 
 * [Billing and Invoicing Web Services](https://github.com/suthardhaval24/webapp)
+* [Amazon Machine Image](https://github.com/suthardhaval24/ami)
+* [Serverless Computing AWS Lambda](https://github.com/suthardhaval24/serverless)
+* [AWS Cloud Infrastrcutres Automation](https://github.com/suthardhaval24/infrastructure)
 
 
 ### Author
