@@ -9,7 +9,7 @@ User bill Tracking application build with spring boot, maven, REST APIs and depl
 * EC2 instances are built on a custom AMI using Hashicorp packer
 * Setting up the network and creation of resources is automated with AWS Cloud formation, aws cli and shell scripts
 * Instances are autoscaled with ELB to handle the web traffic
-* Created a serverless application to facilitate the password reset functionality using SES and SNS
+* Created a serverless application to provide billing history functionality using SES and SNS
 * The application is deployed with Circle CI and AWS Code Deploy
 
 ### Architecture Diagram
